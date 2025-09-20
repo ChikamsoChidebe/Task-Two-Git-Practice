@@ -8,7 +8,7 @@ This project showcases complete mastery of Git version control through hands-on 
 
 ## 🚀 Live Repository
 
-**GitHub Repository:** [Your GitHub Link Here]
+**GitHub Repository:** https://github.com/ChikamsoChidebe/Task-Two-Git-Practice
 
 ## 📋 Git Learning Outcomes Covered
 
